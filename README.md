@@ -51,7 +51,8 @@
 
 ### <실습 문제>
 
-1. [ ] 0/1 knapsack
+1. [X] 0/1 knapsack
+   - [solved] 12/19, 126ms, [코드](week03/Knapsack.java)
 2. [ ] 최장 공통 부분 수열
 3. [ ] 힙
 4. [ ] 중간값
